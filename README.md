@@ -21,21 +21,8 @@ Personal portfolio website for **Edet “Alphaa” Simon**, an AI & Business Int
 - JavaScript
 - GitHub Pages
 
-## Local preview
-
-Open `index.html` directly in your browser, or use PyCharm’s built-in browser preview.
-
-## Deployment with GitHub Pages
-
-1. Create a new public GitHub repository.
-2. Upload all files and folders in this project.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/root`.
-6. Save and wait for GitHub to publish the site.
-
 ## Author
 
-Edet Simon  
+Edet Simon(Aplpha)  
 GitHub: https://github.com/EdetSimon  
 LinkedIn: https://www.linkedin.com/in/edetsimon/
